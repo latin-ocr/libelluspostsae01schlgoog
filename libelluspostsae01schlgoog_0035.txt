@@ -1,0 +1,38 @@
+L. SCHLESINGER
+
+1. quod linearum finientium numerus idem est, quodque curvae
+finientes, aliae aliis e continuitatis lege correspondeant3
+
+2. quod eis eadem cohaerentia est.
+
+Quo fit, ut omnis bilateralis m-pliciter connexa varietas r lineas
+finientes habens, superficiei 12,ss Bonxnranae normali (differentia
+m—-r est semper par numerus) homoeomorpha est, ita, ut igitur
+superficies normalis Boxxnrana varietatis generalissimae mpliciter
+connexae r lineas finientes habentis repraesentatrix ex analysi situs
+re vera considerari possit. Cum supponatur M, in n dimensionali
+spatio Eucunno situm esse, M, continua intra hoc spatium Eucnr-
+onum deformatione ad superficiem Bosxxranam normalem, quae in
+eodem spatio cogitanda est, transferri posse dicere licet. Quas res
+iam considerabimus, earum initium capimus a superficie normali
+F,‚,‚ cuius r lineas finientes per a„...,a„ canales autem per
+R1,..., R, designemus Lineam finientem a, fingimus esse punctum
+delatum (trema), ut, si r=1 est, superficies in se ipsam rediens pro·
+veniat.
+
+Quae superficies normalis hoc sectionum systemate in simpliciter
+connexam secetur:
+
+Primo sectiones Cr, Di(k=1, 2,...,p) a puncto a, proficiscentes
+ponimus, ita ut Cr canalem R, in longitudinem rescindat, curn D,
+nullo punct0, quod a puncto a, differt, Cr tacto, circum R, circum·
+feratur; deinde singula linearum finientium a„ . . ., ab, puncta sectio-
+nibus l„..., [Η cum a, coniungimus. Sectiones universas fingimus
+positas esse iuxta lineas continuas quae inter se non secent, quaeque
+tales sint, ut in earum punctis extremis solum directiones discontinue
+mutentur. Ordine bene dilecto sectiones positae superficiem F„ in
+simpliciter connexam superficiem E, mutant, cuius linea finiens ex
+utraque ripa sectionum universarum
+
+ 
+

@@ -1,0 +1,37 @@
+DE APPLlCATlONIBUS GEOMETRIAE assotum ANALYTICIS· 23
+
+e= 0, alterum semper ad p = 00, q = 00 vergit, ut alterum reale
+esse necesse sit, si c<0 est, aut commune punctum utrumque ima·
+ginarium esse (coordinatis eis respondentibus p,q ipsis imaginariis
+factis), aut in punctum in infinitum remotum concidere, aut denique
+alterum reale, alterum imaginarium esse potest.
+
+Duae rectae lineae, quae ita se secant, ut angulum nullum efficiant,
+parallelae appellantur. In plano Rmnmuiano parallelae non exsi-
+stunt. Si ego est, commune duarum parallelarum rectarum punctum
+utrumque in infinitum semper concidit, atque per punctum quodli-
+bet rectae lineae datae in plano Eucmnno una, in plano BonrArano
+duae parallelae duci possunt. Duae Bormani plani rectae, quarum
+commune punctum utrumque imaginarium est, nominantur diver·
+gentes
+
+Ad translationes haec tria theoremata proponi possunt. Primum
+iu plano anmnuurnuo (c>0) omnes translationes substitutionibus
+ellipticis
+
+fflmeffil-‘d-
+Sr-lt r-lt
+
+exprimi possunt, ubi fixa puncta l, μ poli figurae in infinitum remotae
+coniugati sunt, θ angulus realis est. Eadem translatio nihil aliud est
+nisi rotatio, quae fit donec angulus θ formetur circum puncta fixa
+λ, μ. Deinde in plano Eucnrnno (c τεο) translationes sunt substitutio-
+nes ellipticae aut parabolicae hanc formam habentes:
+
+alterum autern punctum fixum semper in infinito situm est. Substitutio·
+nes ellipticae offerunt rotationes, quae fiunt donec angulus θ forme-
+tur, cum parabolicae (0:0), quae dicuntur translationes parallelae pro·
+ducant (cf. Introductionem). Tum in plano Botrnrano (c < ο) hoc ita est:
+
+ 
+

@@ -1,0 +1,39 @@
+34 ι scunsnnosn
+
+Cum substitutio Α, nihil aliud sit nisi substitutio identica, inter
+translationes S„ T, haec relatio est:
+
+RSpTi¹Sr'¹· . . nnn-¹ Ss¹==1.
+
+a. Si p=0, ag 3 est, polygonum est figura, quae 2r-2 anguli
+puncta efficit, ct in qua bina latera si, si (k= 1, a, . . ., r—1) sunt
+congruentia. Quae figura in plano Rmunnniano in casibus solis 1.-4.,
+Nr. ΙΙΙ., in Eucnrnno in eis 6.-10., in omnibus ceteris in plano
+Boumano est; eiusmodi polygonum ruta appellatur.
+
+In universum polygonum Φηρ translationes
+
+Aa b-na aa
+Sa, Tr u-1.2 ..... n
+
+definit atque Aa parabolicae seu periodice ellipticae substitutiones,
+cum S„ R, si p=o est, id est praecipue si polygonum in plano
+Risnnsniano situm est, omnino non apparent, sin polygonum in plano
+Eucnmno situm est, in casu solo 5., Nr. ΙΙΙ., id est, si polygonum in
+parallelogramma versum est, S1, T, apparent et hae duae substituti·
+ones sunt translationes parallelae, itaque substitutiones parabolicae. In
+omnibus ceteris casibus bina latera γῖ, γῑ et δῖ, ds· divergentibus
+plani Bonusrani rectis lineis componuntur, ut translationes Sa, T,
+substitutiones hyperbolicas esse necesse sit.
+
+Planum polygonum 4p-t-2r--a rectis lineis inclusum pro forma
+(id est translatione quavis intra suum planum excepta) ab 8p -t-4r-7
+realibus constantibus dependet. Cum ad polygonum normale Φ,,ρ
+latera atque bina congruentia sint, ὁρῆν-6 constantes quae dis·
+poni possint, reliquuntur. Faciamus g1,g2,...,g, esse data, polygo-
+num normale d„ signaturam habens
+
+fftffigngvssudd
+
+ 
+

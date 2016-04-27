@@ -1,0 +1,37 @@
+DE Arantcartotsmus asomum ABSOLUTAE mnuvrtcts 37
+
+quae coniunctionis G sunt, automorphas lunationes, ut ilthm,
+nominamus. Quod sine ulla difficultate ostendi potest, si p=0, r=3
+est; et hos casus et nonnullos, qui facile tractandi sunt, alios prae·
+cipiamus, ut quae sunt exempla ad sequentes generales investigationes
+facilius intelligendas idonea habeamus.
+
+Si p=0, r=3 ests, polygonum est quattuor laterum ruta, quae
+cum numerus 6p÷2r-6=0 sit, tribus numeris g1,g2,g3 indicatis
+plane definitur. In aequatione (6), Nr. 111. differentiodifferentiali, cum
+p=o sit, coefficiens q(z) functio ipsius z rationalis est, et, ut semper,
+si p=0 est, varietatem F, planum Eucrrnnum, in quo complexae va·
+riabilis a valeres, ut usus est, repraesentantur, eligere nobis licet;
+cum praeterea lineari transformatione ad z adhibita tria tremata a„
+a2, a³ in puncta 0, 1, 00 z-plani transponere nobis liceat atque aequa·
+tio (6), Nr. 111. classis F ucrrsianae sit et determinantium aequationum
+
+fundamentalium radicum differentiis -Ῑ- L -Ῑ- valores esse ne·
+
+ἕ 1=¹ g, ’ g,
+cesse sit, haec aequatio differentialis forma
+
+(G)
+
+prodit, quae est in summa differentialis aequatio Gaussiana. Qua
+ex aequatione z integralium rationis η functionem automorpham
+re vera resultare demonstratur. Si c>0, id est in casibus 1.-4.,
+Nr. III, haec uniformis functio est rationalis, qua ad eos casus, in
+quibus aequatio (G) quae dicuntur regularium solidorum functiones
+definit, pervenimus. Si σεο est, casus 7., Nr. III. z simpliciter pe-
+
+* Scuwnnz, l. e: Kirra, 1kosaeder (Lipsiae‚ 1880: marn-rnen, Modulfunctionen (Upsiae,
+1⁸90) 1³⁸⁸· ⁶5· ψ·
+
+ 
+

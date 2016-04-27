@@ -1,0 +1,45 @@
+DE APPLICATIONIBUS onomata Ausonum ANALYTICIS. 49
+
+Mv punctum correspondeat necesse sit, id est, ut omni aequationum
+differentialium (1) typo polygonum normale ΦΨ correspondeat, quam
+ob rem quaestio supra proposita cum affirmatione respondenda est.
+
+2. De aequationis differentialis Lrouvrunaanae ra-
+tione ac via integrationis*
+
+Primo ap ÷1-pliciter connexam varietatem F, in se ipsam redeun-
+tem, cui dimensiones sunt duae, e. g. normalem Bouxxranam super·
+ficiem datam esse supponimus, z, tsint duae uniformes et monogeneae
+loci in F, functiones, quae algebraica aequatione F (z, t)=0 coniun-
+guntur. Deinde, si z=u÷a tls-'1' statuitur, ipsius F, elementum
+
+lineare dS aequatione
+(3) dS²=A(du²÷dv²)
+
+exprimitur, in qua Λ ipsorum u,v functionem, quae nota habenda
+est, significat. Varietas F, in locis
+
+(4) πται, ίεόι
+
+trematibus affecta, superficies lc„ curvis finita prodit, cuius signaturam
+numeris integris g, trematibus (aa, bt) assignandis constituimus. Si poly-
+gonum normale ΦΨ simpliciter connexae varietati Ep, quae ex ἢ,
+secta prodit, homoeometn‘cum exsistit, plani P, inquo Φ,,ρ situm est,
+elementum lineare ds forma
+
+(5) ds²=i(du²-t·dv²)
+
+exprimi posse necesse erit, ubi (cf. Nr. ΙΙΙ.)
+U = log λ
+
+aequationi Lrouvnuuanae
+Δ U = - πε U,
+et ergo
+
+*Porxcxxrt Journal de Mathemathuas (Lionville), series V, tom. IV. pag. 137-230; cf.
+Picano, ibid. saria IV, tom. VI, 1x‚ series V, tom. 1v.
+
+7
+
+ 
+

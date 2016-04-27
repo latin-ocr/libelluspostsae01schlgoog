@@ -1,0 +1,40 @@
+42 c. senessmonn
+
+Ill. Pomcnnd seriem (1), quam seriem Theta-Fucrrsianam
+designavit, duabus diversis rationibus convergentem esse probavit;
+utrique commune est id, quo seriei (1) convergentiam a conver-
+gentia seriei
+
+υ ἅιςνη m
+(³) Eiet)
+v=0
+dependere demonstratur.
+Prior probandi ratio praecipue ea re nititur, quod planum Bormu-
+
+anum S, inquo polygonum digp continetur, in planum Euenrnnum Σ,
+cuius elementum lineare ds aequatione
+
+ds=idql= tsdp²÷dq²
+
+expressum est, ita conformiter repraesentatur, ut plani S realibus punc·
+tis omnibus plani Σ puncta intra circulum (2), punctis autem plani S in
+infinitum remotis circuli (2) peripheriae Spuncta respondeant. Si tum
+
+e. g. circum punctum η, quod intra eam plani Σ regionem ὂψ posi-
+tum sit, quae polygono ΦΜ, respondet, aliquam partem c, limitatam
+esse, quae intra 5,sp tota sita sit, fingimus et si omnes regiones o,
+quae ex C„ substitutionibus S„ applicatis prodeunt, delineamus, haec
+cunctae intra circulum (2) sunt neque ex coniunctionis G disconti-
+
+nuitate, aliae alias contegere possunt, itaque tota earum arearum, quae
+egeometria Eucnrnea mensuratae sunt, summa, cum minor sit quam
+circuli (2) area, valorem habet finitum, qua ex re sponte sequitur,
+ut series (3) convergens sit.
+
+Altera probandi ratio plani Boumrani S mensura sola utitur. Cir·
+culorum series C„ C„ . .. ita delineetur, ut commune iis centrum punc·
+tum q=o sit, quorum radii e geometria Boemana mensurati pro·
+gressione arithmetica crescant. Si U„ seriei (3) eorum terminorum, ad
+
+ 
+

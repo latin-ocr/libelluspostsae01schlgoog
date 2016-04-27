@@ -1,0 +1,38 @@
+DE spaucmoulsus <suburram ABSOLUTAE Ausnurtcls. 47
+
+(1) est classis F ucnsianae, id est eius integralia nusquam indefinita,
+
+aequationum fundamentalium et determinantium, quae singularium
+punctorum (aa, bs) sunt, radicum differentiis sunt valores -I—, ad
+omnia cetera loca (z, t) integralium ratio η regulariter se habit, id
+est in superficie R, uniformis, finita, continua est. Generaliter hae
+condiciones solae ad q(z, t) plane definiendum non sufficiunt, sed
+constantium, quae algebraice definiri non possunt et quae cum clar0.
+Kunlu parametros accessorios nominamus, numems quidam
+relinquitur. Solum si p=0, r= 3 est, parametrorum accessoriorum
+numerus evanescit, inquo casu hoc problema revera Nr. IV. con·
+siderationibus peractum est; idem pertinet ad casus 5., 6., Nr. 111,
+in quibus, quamquam accessorii parametri apparent, functionum ellip-
+ticarum theoria ipsa, quomodo definienda sint, indicat. Nihilo secius
+casus hoc modo peracti, in quibus polygonum normale Q in plano
+R1nusuuiano aut Eucmnno situm est, id estin quibus numerus
+r
+ss—w4d
+Η gr
+
+positivus est aut evanescit, in sequentes considerationes velim inii-
+ciantur.
+
+Ubi q(z, t) ex condicionibus, quae quaestionibus datis offemntur
+electum est, aequatio differentialis (1) appellatur normalis aequa-
+tio* Omnes aequationes differentiales (ι), quae diversis accessorio·
+rum parametrorum valoribus differunt, typo amplectimur, ita ut hoc
+problema nihil aliud sit atque:
+
+num in aequatione differentio·differentiali (1) parametri ac-
+cessorii ita definiri possint, ut proiectivarum substitutionum,
+
+*Porucssub Acta Mathematica, tom, 1V, pag. ²²3·
+
+ 
+

@@ -1,0 +1,41 @@
+DE Arrulcnrlottmus GEOMETRIAE Ansotuw austurtots. 43
+
+quos η intra &aa delecto puncta Suq in annulo a C„..1 et C„ limitato
+sunt sita, summa est,
+
+K
+
+ΝΛΜ
+
+esse patet, ubi K constans definita, ρ autem circuli C1 radius est,
+unde sequitur, ut series (3) rapidius convergat quam series geo-
+metrica
+[A.
+enlm-1) ρ
+η-ιο
+
+Ex eadem probandi ratione realibus (sp -t- 2r—6 parametris‚ qui poly-
+gonum Φῆ) signatura data determinant, intra fines quosdam variatis,
+seriem (1), cum ad illos parametros uniformiter convergens sit, con·
+tinuam eorum functionem esse cognoscitur.
+
+Itaque series (1) ad eos uvalores, qui plani Bonumani punctis
+
+realibus correspondent, id est quae inaequationi
+1÷cpiy>o
+
+satisfaciunt, monogeneam et uniformem ipsius η functionem, quae intra
+polygonum dl„ in finito locorum numero solo aeque ac functio ratio-
+nalis infinita fit, exprimit ; ad quam functionem plani Spunctorum
+in infinitum remotorum, id est eorum valorum, qui aequationi (2)
+satisfaciunt, universitas finis naturalis est. Eandem seriem (1) ad
+arvalores, qui inaequationi
+
+1÷cpp<0
+
+satisfaciunt, uniformem functionem, cui valores, qui aequationi (2) satis·
+fecerunt, finem naturalem constituunt, exprimere in nostris sequenti·
+bus deliberationibus non respiciendum est; quidquid id est inter has
+
+ 
+

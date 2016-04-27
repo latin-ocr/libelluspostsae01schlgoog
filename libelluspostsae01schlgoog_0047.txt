@@ -1,0 +1,43 @@
+22 1.. SCELESOEGER
+
+ubi l, m, n arbitrariae constantes sunt. Integrale (13), iuxta talem
+rectam lineam electum duorum punctorum (p1, q1)‚ (pv ῳ) distan-
+tia velim appelletur.
+
+Ea puncta, quorum distantia a puncto p=0‚ =o infinita ma·
+gnitudine est, ut ad ea
+(15) 1÷cu²÷ra=0
+sit, plani elementa in infinitum remota componunt. Haec, si c>0 est,
+imaginaria sunt, si c=o est, unum in infinitum remotum punctum
+resultat, 25:00, q=00, sin autem c<0 est, puncta in infinitum
+remota continuum unius dimensionis reale componunt.
+
+Realia plani P puncta sunt ea, quorum distantia a puncto p=0,
+q=o realis est, ita ut, si ego est, omnibus valoribus p, q realia
+plani puncta respondeant. Sed, si c<o est, realia plani puncta offerunt
+valores reales Μ solum ei, ad quos
+
+'t1⁶) 1÷⁶tp²÷r²)30
+
+est. Coordinatae Μ sunt tales, ut realibus omnibus binis Μ valo·
+ribus, qui, si c<0 est, inaequatione (16) limitati sunt, plani punctum,
+nullo except0, et vice versa uniformiter respondeat.
+
+Duae reales rectae lineae semper duobus punctis secantur. si
+
+(pr, φ), (p2‚ q2) ambo communia duarum rectarum puncta sunt, sem-
+per est
+
+14⁶(p14q1s-T1)(p2-q21s1‘1)=0;
+
+duo puncta, inter quae ea relatio est, polos figurae (15) in infini-
+
+tum remotae coniugatos esse dicimus; qua exre commune dua·
+rum rectarum punctum, si c>0‚ semper utrumque reale esti< sin
+
+* Utroque puncto identificato plani Riemannisuri modificatio, quae a claro. F. Kerru primo
+cognita est, prodit. In hac dissertatione utrumque punctum alterum ab altero differens con·
+templamur.
+
+ 
+

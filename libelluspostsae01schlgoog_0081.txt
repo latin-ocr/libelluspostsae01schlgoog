@@ -1,0 +1,38 @@
+5⁶ r. sonuusuaosa
+
+Praeterea applicationes ad Anesianarum integralium theoriam clar.
+Huuannr docuit*
+
+a. De principio, quod ill. Pomone proposuit.ll
+
+Si y1,...,y„. monogenearum complexae variabilis z functionum
+systema denotat, quae functiones ad puncta omnia Rruuuuuianae super· ¹
+ficiei R„ quae ad aequationem algebraicam
+
+F (z, t)=0
+pertinet, finito numero singularium punctorum
+z=a1,t=ba (1-1.2 ----- d
+
+excepto, uniformes sunt, horum singularium punctorum cuique inte·
+ger numerus g, hunc in modum assignetur. Si functionum y1,···,y„
+eorum ramorum, qui puncto (aa, ba) nexum habent, numerus finitus
+est, g, huic numero aequalis eligatur, aliter sit g,:00. Si super·
+ficiem R, in locis (aa, da) trematibus affectum esse, numero g, au·
+tem correspondente tremati cuique assignato polygonum normale
+Q, quod simpliciter connexae superficiei Rp homoeometricum sit, de-
+lineatum esse fingimus ut y1,..., y„ ita z et t ipsa functiones ipsius
+pzp-l-qtssr uniformes apparent, si p, q coordinatas canonicas
+in plan0, quod polygonum (bna contineat, designant, itaut functio·
+nalis relatio inter y„ . . ., y„ et (z, t) variabili η auxiliaria introducta
+uniformetur. Haec cogitandi ratio P01Ncanuianum principium appella-
+tur. E. g. y„ . . ., y„ homogeneae et linearis aequationis differentialis
+n-ti ordinis systematis fundamentalis elementa denotare fieri possunt,
+cuius coe'fficientes sunt rationales ipsorum (z, t) functiones.
+
+Tum ad ipsorum p, r, g, valorum systemata, quae casibus 5.-10.,
+
+*Journal de Mathematiqnes (Liouville), series IV, tom. ΙΙΙ, pag. 327·-4o4.
+** Acta Mathematics, tom. IV. pag. 277 squ.
+
+ 
+

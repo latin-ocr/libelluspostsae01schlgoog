@@ -1,0 +1,40 @@
+DE APPLIGATIONIBUS ettottttrtttnt ABSOLUTAE mntvrtcts. 25
+
+III.
+
+DE REPRAESENTATIONIS CONFORMITATE. DE DUOBUS PROBLEMATIBUS.
+
+Ut ex considerationibus de situatione geometrica, quae priore
+
+paragrapho paucis indicatae sunt, ad complexae variabilis functionum
+theoriae notiones transire possimuS, relati0, quae est inter superficiem
+[ἦρ et polygonum normale Q, ita modificanda est, ut homoeo-
+morphismo inter sectam superficiem F„ et polygonum Φῆ), gene·
+rali homoeometria sive uniformiter conformis repraesentatio suc-
+cedat faciamus. Priusquam autem diligentius deliberemus, num ea
+conformis repraesentatio fien' possit, ex ea re, quam homoeometria
+postulat, polygonum normale dim, modo quodam planius definire co-
+nemur.
+
+Ne nostrae considerationes generalitate careant, in sequenti super·
+ficiem Rp esse Bonunranam normalem fingere nos supersedere ne-
+cesse est, sed superficies F„ (2p÷r)·pliciter connexa et bisdimen·
+sionalis varietas quaelibet, r curvis finientibus limitata, quae in spatio
+Encmono dimensionis numerum quemvis habente continetur, cogite-
+tur velim. Cuiusmodi varietas, cum semper superficiei normali Βοιω-
+anae homoeomorpha sit, sectionum systema canonicum, ad superficiem
+normalem institutum, ad varietatem illam Rp deferri potest, idern·
+que ad situs analysis omnes ceteras de superficie normali conside·
+rationes pertinet.
+
+Primo ad ἰὴ isometn'cas coordinatas u, v institutas esse finga-
+mus, ut igitur superficiei F„ elementum lineare dS hac aequatione:
+
+dS²=Aldu²÷dv²)
+
+detur. Qua re ex principiis, quae Gauss, vir summus, de conformis
+
+4
+
+ 
+

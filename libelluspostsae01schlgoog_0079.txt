@@ -1,0 +1,39 @@
+54 1.. scansurum
+
+eius superficies Rruumuiana data est, haec superficies sectionibus
+C„ D, apte electis in simpliciter connexam R} verti potest, quae
+semper isogrammati (b, generis p homoeometrica est. Planum P, inquo
+hoc isogramma exsistit, tanturn si p=1 est, Eucurnnum, si p>1 est
+semper Bouunranum planum est. Si p, q plani P canonicae coordinatae
+sunt, a, t sunt uniformes et automorphae ipsius q=p÷q tfft func-
+tiones atque, sip =1 est, bipen'odicae, sin autemp>1 est, Fucrrsianae,
+quae functiones nisi ad eos η valores, quibus realia plani P puncta
+
+correspondent, non exsistunt.
+
+Primae et secundae speciei etiam integralia, quae ad aequationem
+F (z, tlzo pertinent, sunt uniformia in η et cum η substitutionem
+translationum coniunctionis G, quae isogrammatis (b, est, subit, tale
+
+integrale periodicitatis modulo augetur.
+
+Via ac ratio indicata variabiles aequatione generis p coniunctas
+in casu, quo p=1 est, in forma nota unilorminm et biperiodicarum
+integralis primae speciei functionum sistit, quam ob rem barum varia-
+bilium repraesentationem, quam eadem via ac ratione, si p>1 est,
+functionum Fucusiauarum ope adipiscimur, pro genuina repraesen-
+tationis, si p=1 est, notae generalisatione habere possumus.
+
+c) SiG(z1, t1l=0 aequationem denotat, quae ex aequatione F (z, t)=o
+birationali via transformata prodit, ita, ut una cum F (z, t) = o eiusdem
+classis sit, ut ill. Rmuauu sensit, isogramma Q), ad utramque aequatio·
+nem idem estet e contrari0, duae aequationes, quibus idem isogramma
+correspondet birationali transformatione altera in alteram mutari pos·
+sunt, ut ea data, quibus isogramma definitur, sint classis invarian·
+tes. Cum isogramma generis p, si p>1 est, a bp-—o realibus id esta
+3p-3 complexis parametris quibus definitur dependeat, bic parametn',
+qui ab illo. Rrrunuu dicuntur clas sis moduli, cogitari possunt. Si
+p=1est,unum habemus modulum, periodorum rationem alcf. Nr. ΙΙΙ.).
+
+ 
+

@@ -1,0 +1,36 @@
+DE APPLICATIONIBUS GEOMETRIAE Ausonum ANALYTICIS. 57
+
+Nr. ΙΙΙ. correspondent, aequatio differentialis linearis, de qua agitur,
+talis est, ut auxiliaria variabili η introducta eius co'efficientes unifor-
+mes et biperiodicae ipsius η functiones fiant. Quam ob rem nota
+ratio ac via aequationem differentialem Laudianam et magis in uni·
+versum aequationem differentialem quae dicitur Prcnnniana integrandi,
+specialis casus in generalem rationem supra indicatam, linearem aequa·
+tionem differentialem algebraicos coefficientes habentem integrandi
+continetur.
+
+Sit data homogenea et linearis differentialis aequatio n-ti ordinis
+
+coefficientes in z rationales habens, quae classis Fucusianae est cu-
+iusque integralia in Eucunsr z-plani punctis a1,..., a, nexum dant
+et porro rh, . . ., ra„ aequationum fundamentalium et determinandum,
+punctis πται correspondentium, radices sint. Si omnia ra1,...,ra„
+sunt rationales numeri et in integralibus circum ak explicandis loga-
+rithmi non apparent, numerus g, generali denominatori ipsorum
+ru, . . ., rr„ aequalis, in omnibus ceteris casibus autem infipite magnus
+est eligendus. Normali polygono olm signaturam (0, r, g1,..., gr) ha-
+benti, quod z-plano sectionibus “
+
+(αι, αν), · · η (αν-ι, αν)
+
+apte electis in simpliciter connexam superficiem F,0 mutato ac tre·
+matibus a1,...‚a, numeris g1,...,g, instructo homoeometricum est,
+quod itaque in hoe casu ruta sit, delineat0, n=p÷q ιῑ-ἶ, ubi p, q
+canonicae plani polygonum 9)ηο continentis coordinatae sunt, variabi-
+lem independentem introducimus, unde sequitur, ut z uniformis et
+automorpha ipsius η functio fiat et elementa aequationis (A) systematis
+
+8
+
+ 
+

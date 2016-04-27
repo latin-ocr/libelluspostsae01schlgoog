@@ -1,0 +1,39 @@
+DE nrrttcarlortmus oronnam ABSOLUTAE nnntvrrcts. 53
+
+VI.
+
+APPLICATIONES.
+
+· Priusquam ad applicationes theoriarum generalium quas antea pau·
+cis indicavimus enumerandas iam transibimus, casus quosdam peculi·
+ares intueamur.
+
+1. De isogrammate, quod ad aequationem inter duas
+variabiles algebraicarn spectat*
+
+Quam investigationem incipimus ab eo casu, in quo polygonum
+normale est isogramma (vide pag. 33) generis p, casu p=o triviali
+neglecto. Eae res quasin paragraphis ΙΙΙ. et IV. invenimus, docent:
+
+a) Ubi isogramma dp generis p datum est, omnes uniformes
+ipsius η functiones, quibus intra dp rationalium functionum vis est,
+quaeque in correspondentibus ipsius (u, coniugatorum laterum punc·
+tis eosdem valores assumunt, earum duabus
+
+βψω), t=vtn
+
+inter quas aequatione algebraica
+F (z, t) = 0
+
+generis p est relatio, via rationali exprimi possunt, isogrammaque
+simpliciter connexae superficiei R'p, quae ex superficie Rrrruaurviana
+R„ quae ad aequationem F (z, t)=0 pertinet, sectionibus apte electis
+prodit, homoeometricum est.
+
+b) Si vice versa, aequatio algebraica F (z, t)=o generis p, sive
+
+*Porucsnrt Acta Mathematica. tom. 1, pag. ²54 squ: llum, Mathem. annues. torn. XXI,
+pag. 141 squ.; Senum, Commentationes mathena. coll.. torn. 11 (Beroliui 1⁸90) pag. 3⁶³ squ.
+
+ 
+

@@ -1,0 +1,37 @@
+30 ι. scucrsmonn
+
+Dilierentio-differentialis aequationis (6), Nr. ΙΙ. solutiones ad va·
+rietatis F, loca omnia, quae ab (aa, b.) differunt, regulares, id est
+uniformes finitae, continuae etin locis (aa, br) ipsis non indefinitae
+sunt, ut primo qlz) rationalis ipsorum (z, t) functio sit, deinde
+aequatio differendo-differentialis eius classis, quae Fucusiana apella·
+tur, sit, tum aequationum fundamentalium et determinantium, quae ad
+puncta singularia τεαὶ, ίεόι pertinent, radicum differentiae valores ᾗ
+assumant. Proiectivarum substitutionum, quas integralium rati0, si
+punctum (z, t) omnes in F, in se redeuntes cursus percurrit, subit,
+universitas, coniunctionis G translationibus datur.
+
+Videmus ad plane definiendum problema, quo de uniformi ac
+conformi superficiei F„ repraesentatione in polygonum Q normale
+agitur, angulos in singulis anguli punctis, quae cyclos efficiunt, dan·
+dos esse, atque ita, ut aliquotae ipsius arr partes sint, sive quod
+idem est, trematum a„ . . ., a, cuique numerum integrum quemdam
+g1,. . ., g. assignandum esse, qui vel infinitus esse potest, quoque
+quantae sint angulorum summae in singulis ipsius ΦΜ, anguli puncto-
+rum cyclis, determinatur.
+
+Numeris p, r et g1,. . ., g, autern indicatis plani P, in quo poly-
+gonum normale (bgp continetur, vis plane definita est. Curvatura
+integra enim polygoni Φῆ), 11 plano Psiti, quod 4p÷2(r-1) rectis
+lineis includitur, formata secundum Gauss habemus
+
+11111113 ' ΞΕ-1411-1-21-4171,
+r=1 g,
+
+ubi dw est area elementi plani P, et integrale per polygonum chry
+extendendum est. Qua aequatione, cum factor 111111 e natura posi·
+tivus sit, ut quantitatis c signum, ita plani Pnatura definitur. In bre-
+viter disputando sequitur, ut in casibus quibusdam, qui accurate
+
+ 
+

@@ -1,0 +1,42 @@
+DE Arrucmotttsus deoramus assotum matmcts. 19
+
+curvaturae mensura indicata plane definitum esse, id est duo plana,
+quorum curvaturae mensura eodem valore est, ad se uniformiter ita
+referri posse, ut correspondentia elementa linearia eadem sint. Hinc
+imprimis sequitur, ut plani unius eiusdemque partes aliquae hoc
+modo referri possint, id quod plani in se ipsum translationem
+appellamus. Mihi liceat huius theorematis probandi earn rationem
+indicare, qua simul ad generalissimam plani translationis constitutio·
+nem deducamur.
+
+Si in plano P isometricis coordinatis u‚v institutis elementi
+linearis expressio haec est:
+
+(1) ds2=l(du²÷dv²),
+
+ex notis formulis sequitur, ut constans curvaturae mensura c ita ex-
+
+).
+
+Functio semper realis ipsorum u,v
+(2) U = logl.
+ergo partiali aequationi differentiali
+(3) Alfi-mv,
+
+quae dicitur aequatio Lroovnmana, satisfacit, ubi ut usus est, statuetur .
+
+AUAEAEE.
+ὃτι2 oo²
+
+Si z=u÷vtsT1 posito, duae functiones variabilis complexae z
+monogeneae p, ᾖ eliguntur ita, ut sit:
+
+(4) o=2si=c1nu÷c2pn
+
+ubi c1,c2 duos reales constantes denotant, quorum productum
+(5) c1c2=c
+
+3*
+
+ 
+

@@ -1,0 +1,41 @@
+DE armcmottmus GEOMETRIAE ABSOLUTAE Auatv'rrcts. 33
+
+P, in quo polygonum Φ,,ρ exsistit, anuanuianumne, an Eucurnuum,
+au Bonmranum planum sit; absolutus huius plani curvaturae men·
+surae valor non ultra respiciendus est; si csso est, c unitati aequale
+eligere possumus.lt
+
+Exempla praecipue duos casus eligemus, quos applicationibus
+maximi momenti esse patebit (vide Nr. VI.).
+
+1. Sit r=1 et polygoni F„ angulorum summa aequalis arr. Qua
+posita re, si p=o et ergo c>0 est, nullum est polygonum, id est
+polygonum planum Rrauamianum totum explet. Quod planum, cum
+infinite multis modis in varietatem quamvis simpliciter connexam et
+in se redeuntem uniformiter et conformiter repraesentari posse per-
+spicuum sit, problema peractum esse dicere possumus, quam ob
+rem etiam in sequenti hic casus velim neglegatur. Cum, si p=1 est,
+c=0 habeamus (casus 5., Nr. HL), polygonum nihil aliud fit, nisi
+Euculour plani parallelogramma. Si p>1 est, semper c<o est, po· ¹
+lygonumque in plano Bonumauo in figuram 4 p latera habentem
+
+γῖ, δῖ, ri, ds, . . .‚ 73, 35,pr δρ·
+
+vertitur, quam Eucmnnr plani parallelogrammati correspondere‚ qua·
+tenus quattuor latera yl, δῖ, γῐ, δι’ aequalitatis relationes parallelo-
+grammatis lateribus correspondentes praestant et angulorum summa
+etiam hic aequalis arr est, dicere possumus. Eiusmodi figuram in
+plano Bourmano 4p latera habentem isogramma generisp no·
+minemus et pro isogrammate generis 1 Eucnlnur plani parallelo-
+gramma habeamus.
+
+* Planum P curvaturae mensuram c habeus, canonicae coordinata (p, q) constanti factore γ
+multiplicatae sive generaliter plani P translatio ad γη applicata. in planum P' cuius curvaturae
+mansura γέ est. et cuius elementum lineare ab ipsius P elemento lineari factore γ differt. muta-
+tur ita, ut oorraspoudeates planorum P et 1³¹ figurae similes sint. si c canescit. P' in P incidit.
+qnam obrem in plano Eucrrueo figurae similes exsistunt.
+
+5
+
+ 
+

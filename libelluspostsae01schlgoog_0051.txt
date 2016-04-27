@@ -1,0 +1,38 @@
+26 1.. scmnsmoun
+
+repraesentationis theoria proposuit, si eaedem coordinatae u,v ad
+puncta plani P, quod polygonum normale ΦΨ continet, definienda
+adhibitae erunt, ipsius P elementum lineare hanc formam:
+
+ds²=l(du²-t-do²)
+
+induet, ubi, cum U=10gt partialis aequationis differendo-differen-
+tialis L10uvmnuanae (3), Nr. II. solutio sit,
+
+U= U — log A
+solutionem partialis aequationis differendo-differentialis
+(3a) DU=-2ceU-Dlogs1
+
+esse necesse sit, si symbolum DV aequatione
+
+ov=3¹sAV
+
+explicatur. Aequatio differentialis (3o) aequationi L10uvnmanae (3)
+Nr. ΙΙ. anteferenda est ob eam rem,lt quod functio U a deligendis
+coordinatis u‚v isometricis ad superficiem institutis non dependet.
+Functio λ nota putanda est.
+
+Si supponimus coordinatas maxime tales esse, ut superficiei Rp
+omni puncto, nullo excepto bini valeres certi πμ) respondeant,
+variabilis z = u ÷v ts——l est functio quae dicitur monogenea uniformis
+loci in Est*
+
+Ut tales coordinatas ιω) exsistere probantes in fructibus iam
+cognitis niti possimus, facere non possumus, quin linearum finien-
+tium numerum resse aut evanescere aut hunc numerum esse quem-
+
+*Porxcxrut Journal des Mathematiques (Liouville). ser. V. tom. 1v.‚ ρας. ι55.
+** Ut Kurru (Riemann'e Theorie ete, 1882, pag. 19.) dixit: Complexo loci functio.
+
+ 
+

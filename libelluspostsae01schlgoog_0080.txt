@@ -1,0 +1,37 @@
+DE Arrnrcarromeus ortolanum ABSOLUTAE ANALYTIClS. 55
+
+Quibus ex geometria perlustratis duas superficies Rrsunuuianas
+ap ÷1·pliciter connexas sive, ut magis in universum loquamur, ap-l-r·
+pliciter connexas varietates duarum dimensionum in se ipsas rede·
+untes tum et tum solum homoeometricas esse, si iis idem isogramma
+correspondet, numerumque condicionum, quibus satisfaciendum sit,
+6p-6 esse (si p>1), et homoeometricas superficies annnuuianas
+sive varietates in se ipsas redeuntes semper birationali transforma-
+tione aliam in aliam transduci posse dicimus.
+
+Isogrammate, quod ad algebraicam aequationem duarum variabi-
+lium pertinet, classis modulos maxime illustrari videmus. Quae cogi-
+tandi ratio quos fructus algebraicarum functionum theoriae produxerit
+ut cognoscatur, sufficiat monstrare illum. Porucnnrt primum isogram-
+matis ope hoc theorema subtiliter probavisse* aequationem algebrai-
+cam, cuius genus p>1 est, finito birationalium transformationum nu-
+
+mero solo in se ipsum transferri posse; unde iam sequitur hoc theo-
+rema: aequationem differentialem primi ordinis ramilicationis puncta
+fixa habentem, semper algebraicis operationibus integrari posse, si
+algebraicae relationis inter dependentem variabilem et eius derivatam
+
+genus est maius unitate.
+
+Birationales transformationes eae, quibus adhibitis algebraica aequatio
+F (z, t)=o in seipsam redditur, isogrammatis qualitatibus morpho-
+logicis plane illustrantur; e. g. aequatio hyperelliptica breviter ea re
+describitur, quod ap hyperbolicarum (tum solum parabolicarum, si
+p=1 est) substitutionum, quibus latera isogrammatis congruentia ad
+se transferuntur, axis uno puncto secantur.itit
+
+*Acta Mathematica. tom. VII, pag. r squ.
+** Sroorr, Thesea (Parisiis, 1888) pag. 45.
+
+ 
+

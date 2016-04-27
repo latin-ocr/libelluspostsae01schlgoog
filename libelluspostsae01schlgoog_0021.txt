@@ -1,0 +1,38 @@
+ΧΠ 1. BOLYAI.
+
+quidem omnibus demonstratum esse theorema binomiale‚ sed demon-
+strationem rigorose tantum pro [exponente] integro positivo valere,
+itaque ipse generaliter cum rigore demonstrare coepit, sed ubi diffi-
+cultates incipiunt, etiam eius demonstratio haerescit, quamquam pro
+integro positivo nimirum valet et rite mutata etiam pulchra est. Ego
+autem credo pro integro positivo naturae maxime conveniens, quinimo
+directissimum ac prope brevissimum iter esse, quod ex theoria com-
+binationum sequitur, quia immediate fluit ex regula multiplicationis
+nota. Theoriam combinationum et permutationum, (de qua tantum
+longe et contuse scriptum est) iam dudum tam evidentem, facilem
+directamque in viginti plagulis octava forma conscripsi, ut facile
+dixerim: non plus ultra. VEGA etiam multum operae dedit huic theo-
+riae, quae apud eum nimia arte ac studio efficta, tamen pessima con-
+fusaque est ; in fine partis primae parvum additamentum etiam legitur.
+
+Iam transeo ad partem alteram demonstrationis, quae vere pul-
+cherrima, evidentissima et quoad rei naturam brevissima etiam est,
+sed ut scripsisti, Carissime Pater, abest complementum, quod in casu
+seriei decrescentis essentialiter necessarium est. Demonstratio bre·
+viter haec est: Quodvis sit q et p, concipere possum has duas
+serres
+
+1-t-qx-t-q—lg—le2-t-n· in infinitum
+
+ἃ
+
+ιψρκ-ι-ΜῙξΗκΖ-Ι-υ· in infinitum;
+et si has series ita concipi0, de complemento nimirum nulla
+quaestio fieri potest, utrasque enim series concipere possum extensas
+
+in infinitum, ut exempli gratia
+
+o÷}÷{-÷···
+
+ 
+

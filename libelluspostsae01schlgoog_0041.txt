@@ -1,0 +1,38 @@
+1⁶ n. somssmoun
+
+lineis in superficie F„ congruentibus - nempe unius sectionis n'pae
+utrique -respondent, facile perspicitur, polygonum ab initio ita de-
+ligendum esse, ut bina coniugata latera sint lineae congruentes. Quod
+ut efficiatur, cum forma et positio non limitentur, polygonum Q, in
+Eucunuo sive antieuclideo plano delineatum esse ponimus atque
+ita, ut latera coniugata huius plani translationibus in se ipsum aliud ex
+alio proveniant. Generalitate non limitata ipsius Q latera rectas
+lineas esse ab initio supponere possumus. Tale polygonum ui„ planum
+et rectis lineis inclusum velim nominetur polygonum normale.
+
+Quo facto si translationes, quibus bina coniugata buius polygoni
+normalis latera ad se transferuntur, pro coniunctionis operationibus
+fundamentalibus habemus, ista coniunctio e plani in se ipsum trans·
+lationibus composita, coniunctioni G plane aequivalens est.
+
+Coniunctio G, quam ad superficiem F„ e situs analysi descri-
+bendam sufficere plane manifestum est, nisi plani translationum con·
+iunctio concipitur, formularum ope exprimi non potest: quod ut
+consequamur, complurium plani doctrinae notionum mentio fiat ne·
+cesse est.
+
+II.
+
+DE PLANI IN SE IPSUM TRANSLATIONUM THEORIA.
+
+Concipimus per planum duarum dimensionum varietatem, quae
+in spatio Eucnrnno nescio quam dimensionem habente continetur
+ita, ut eius elementum lineare ds positiva delinita differentiali forma
+
+ds²=Edu²÷2qudo÷de²
+
+detur, ad quam expressio ex E, F, G et ex eorum partialibus diffe-
+rentialibus secundum u, o formata, qna expressione Gauss, vir sum-
+
+ 
+
